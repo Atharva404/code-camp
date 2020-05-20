@@ -27,7 +27,7 @@ html, body{
 }
 
 .bio{
-  padding: 80px 50px;
+  padding: 7vw 4vw;
 }
 
 #atharva-bio{
@@ -64,7 +64,7 @@ html, body{
 #bg-master{
   font-size: 2vw;
   background-color: #C6AC8F;
-  padding: 80px 40px;
+  padding: 7vw 4vw;
   font-family: 'Montserrat';
   color: #22181C;
 }
@@ -78,7 +78,7 @@ html, body{
 #contact-info{
   font-size: 2vw;
   background-color: #22181C;
-  padding: 80px 40px;
+  padding: 7vw 4vw;
   font-family: 'Montserrat';
   color: rgb(255, 255, 255);
 }
