@@ -1,0 +1,42 @@
+html, body{
+  background-color: #EAE0D5;
+}
+
+.heading{
+  font-size: 90px;
+  font-weight: 900;
+  font-family: 'Montserrat';
+  color: #EF626C;
+  text-align: center;
+  /* position: absolute; 
+  transform: translate(-50%, -65%);
+  top: 45%;
+  left: 50%; */
+}
+.bio {
+    font-size:40px;
+    font-color: 
+}
+#terminal-style{
+  font-weight: 900;
+  color: #22333B;
+}
+
+#terminal-style-animate{
+
+  animation: 1s blinker linear infinite;
+
+}
+@keyframes blinker {
+  0% {
+    opacity: 1.0;
+  }
+
+  50% {
+    opacity: 0.0;
+  }
+
+  100% {
+    opacity: 1.0;
+  }
+}
