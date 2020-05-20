@@ -1,10 +1,12 @@
+/* Authors: Charan Vengatesh and Atharva Gupta
+*/
 html, body{
   background-color: #EAE0D5;
   margin: 0;
 }
 
 .heading{
-  font-size: 90px;
+  font-size: 6vw;
   font-weight: 900;
   font-family: 'Montserrat';
   color: #EF626C;
@@ -18,7 +20,7 @@ html, body{
 
 #bio-master{
   margin: 0;
-    font-size: 24px;
+    font-size: 1.5vw;
     font-family: 'Montserrat';
     display: flex;
     color: white;
@@ -60,7 +62,7 @@ html, body{
 }
 
 #bg-master{
-  font-size: 24px;
+  font-size: 2vw;
   background-color: #C6AC8F;
   padding: 80px 40px;
   font-family: 'Montserrat';
@@ -69,12 +71,12 @@ html, body{
 
 .bg-title{
   margin: 0;
-  font-size: 35px;
+  font-size: 3vw;
   display: flex;
 }
 
 #contact-info{
-  font-size: 24px;
+  font-size: 2vw;
   background-color: #22181C;
   padding: 80px 40px;
   font-family: 'Montserrat';
@@ -82,5 +84,5 @@ html, body{
 }
 .contact-subtitle {
   font-weight: 300;
-  font-size:18px;
+  font-size:1.5vw;
 }
