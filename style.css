@@ -42,7 +42,7 @@ html, body{
 
 #terminal-style-animate{
 
-  animation: 1s blinker linear infinite;
+  animation: 0.5s blinker linear infinite;
 
 }
 @keyframes blinker {
@@ -64,11 +64,23 @@ html, body{
   background-color: #C6AC8F;
   padding: 80px 40px;
   font-family: 'Montserrat';
-  color: #22333B;
+  color: #22181C;
 }
 
 .bg-title{
   margin: 0;
   font-size: 35px;
   display: flex;
+}
+
+#contact-info{
+  font-size: 24px;
+  background-color: #22181C;
+  padding: 80px 40px;
+  font-family: 'Montserrat';
+  color: rgb(255, 255, 255);
+}
+.contact-subtitle {
+  font-weight: 300;
+  font-size:18px;
 }
