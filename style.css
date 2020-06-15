@@ -181,6 +181,7 @@ body {
 
 .video-info {
   padding: 3vw;
+  font-size: 1.1vw;
 }
 
 .video-category{
@@ -198,9 +199,22 @@ a{
 }
 
 .video-title{
+  font-size: 2vw;
   text-align: center;
   color: #EAE0D5;
   background-color: #EF626C;
   padding: 0.4vw;
   border-radius: 0.7vw;
+}
+
+@media (max-width:700px) {
+  .video{
+    display: block;
+    text-align: center;
+  }
+
+  .thumbnail{
+    width: 90%;
+  }
+
 }
